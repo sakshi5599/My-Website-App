@@ -1,0 +1,38 @@
+{
+  "todo": [
+    {
+      "id": 1,
+      "name": "sakshi",
+      "email": "sakshi@gmail.com",
+      "city": "pune"
+    },
+    {
+      "name": "Sam",
+      "email": "sam2222@gmail.com",
+      "city": "mumbai",
+      "id": 2
+    },
+    {
+      "name": "vishal",
+      "email": "vishal3343@gmail.com",
+      "city": "Delhi",
+      "id": 3
+    },
+    {
+      "name": "Harish",
+      "email": "harish43434@gmail.com",
+      "city": "Pune",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
